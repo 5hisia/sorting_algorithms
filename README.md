@@ -22,6 +22,5 @@ The prototypes of all your functions should be included in your header file call
 
 A list/array does not need to be sorted if its size is less than 2.
 
-AUTHORS
-Nyokabi Kamau - NyokabiKamau
-Sharon Warukira - shrn-kira
+AUTHOR
+Osteen shisia - 5hisia
